@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "fugi_movieapp_team3" "\0"
+            VALUE "FileDescription", "fleetime" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "fugi_movieapp_team3" "\0"
+            VALUE "InternalName", "fleetime" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "fugi_movieapp_team3.exe" "\0"
-            VALUE "ProductName", "fugi_movieapp_team3" "\0"
+            VALUE "OriginalFilename", "fleetime.exe" "\0"
+            VALUE "ProductName", "fleetime" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
