@@ -1,4 +1,4 @@
-package com.example.fugi_movieapp_team3
+package com.example.fleetime
 
 import io.flutter.embedding.android.FlutterActivity
 
